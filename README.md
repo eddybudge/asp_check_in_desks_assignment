@@ -13,4 +13,4 @@ Given the following information:
   - The check-in desks that are being reserved for a specific flight must be consecutive(they must be a sub-sequence of 1..N).
   - A desk can not be reserved for two different flights in the same moment.
   
-  , write an ASP program that for all of the scheduled flights tries to find a way to reserve the desks they require.
+  , write an ASP (Answer Set Programming) program that for all of the scheduled flights tries to find a way to reserve the desks they require.
